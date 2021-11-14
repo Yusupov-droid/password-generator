@@ -1,4 +1,5 @@
 import './checkbox.css'
+import React from "react";
 
 
 const Checkbox = (props: { label: string, checked: boolean, onChange: ((value: boolean) => void) }) => {
@@ -16,4 +17,4 @@ const Checkbox = (props: { label: string, checked: boolean, onChange: ((value: b
     );
 }
 
-export default Checkbox;
+export default React.memo(Checkbox);
