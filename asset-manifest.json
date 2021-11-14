@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/password-generator/static/css/main.651691d4.chunk.css",
-    "main.js": "/password-generator/static/js/main.638bd531.chunk.js",
-    "main.js.map": "/password-generator/static/js/main.638bd531.chunk.js.map",
+    "main.js": "/password-generator/static/js/main.89649926.chunk.js",
+    "main.js.map": "/password-generator/static/js/main.89649926.chunk.js.map",
     "runtime-main.js": "/password-generator/static/js/runtime-main.923558a5.js",
     "runtime-main.js.map": "/password-generator/static/js/runtime-main.923558a5.js.map",
     "static/js/2.6cad4fa7.chunk.js": "/password-generator/static/js/2.6cad4fa7.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.923558a5.js",
     "static/js/2.6cad4fa7.chunk.js",
     "static/css/main.651691d4.chunk.css",
-    "static/js/main.638bd531.chunk.js"
+    "static/js/main.89649926.chunk.js"
   ]
 }
