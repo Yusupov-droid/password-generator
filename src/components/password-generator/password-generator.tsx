@@ -1,6 +1,6 @@
 import './password-generator.css'
 import React, { useEffect, useState } from 'react';
-import Checkbox from "../checkbox/checkbox";
+import Checkbox from "../checkbox";
 import { passwordGenerator } from "../../utils";
 
 
